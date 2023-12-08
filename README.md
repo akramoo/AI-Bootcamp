@@ -1,4 +1,4 @@
 # Python Modules workshop
-Python workshop about
-- NumPy module
-- Pandas module
+Python workshop about:
+- NumPy Python module
+- Pandas Python module
