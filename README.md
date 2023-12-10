@@ -4,4 +4,4 @@
 - ***Python Bacics***
 - ***Python Basics (NumPy,Pandas, SciPy, Matplotlib)***
 
-there is also python sheatsheets folder
+there is also python sheetcheats folder
