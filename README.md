@@ -1,4 +1,7 @@
 # AI Bootcamp Workshops
-Python workshop about:
-- NumPy Python module
-- Pandas Python module
+
+## Python workshops about:
+- ***Python Bacics***
+- ***Python Basics (NumPy,Pandas, SciPy, Matplotlib)***
+
+there is also python sheatsheets folder
